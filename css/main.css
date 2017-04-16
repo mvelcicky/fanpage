@@ -24,11 +24,11 @@ a {
   border: 0;
 }
 .btn.btn-primary {
-  background-color: #52b6ec;
+  background-color: #000000;
 }
 .btn.btn-primary:hover,
 .btn.btn-primary.active {
-  background-color: #1586c3;
+  background-color: #808080;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
